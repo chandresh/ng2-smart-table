@@ -1,5 +1,5 @@
 {
-  "name": "ngx-smart-table",
+  "name": "@cpant/ng2-smart-table",
   "version": "1.3.5",
   "description": "Angular Smart Table",
   "main": "./bundles/table.umd.js",
