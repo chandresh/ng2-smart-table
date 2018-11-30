@@ -21,12 +21,6 @@ import { Subscription } from 'rxjs';
                        [column]="column"
                        (filter)="onFilter($event)">
       </checkbox-filter>
-      <completer-filter *ngSwitchCase="'completer'"
-                        [query]="query"
-                        [ngClass]="inputClass"
-                        [column]="column"
-                        (filter)="onFilter($event)">
-      </completer-filter>
       <input-filter *ngSwitchDefault
                     [query]="query"
                     [ngClass]="inputClass"

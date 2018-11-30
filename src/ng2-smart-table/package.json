@@ -11,23 +11,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+http://akveo.github.io/ng2-smart-table.git"
+    "url": "git+http://github.com/chandresh/ng2-smart-table"
   },
   "bugs": {
-    "url": "http://akveo.github.io/ng2-smart-table/issues"
+    "url": "https://github.com/chandresh/ng2-smart-table/issues"
   },
-  "homepage": "http://akveo.github.io/ng2-smart-table/#readme",
+  "homepage": "https://github.com/chandresh/ng2-smart-table/issues",
   "keywords": [
     "angular",
     "typescript",
-    "table",
-    "akveo"
+    "table"
   ],
   "dependencies": {
     "lodash": "^4.17.10"
   },
   "peerDependencies": {
-    "ng2-completer": "^2.0.8",
     "@angular/common": "^6.0.1",
     "@angular/core": "^6.0.1",
     "@angular/forms": "^6.0.1"
